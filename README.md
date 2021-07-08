@@ -1,5 +1,7 @@
 # solana-sys-tuner
 
+### This little tutorial assumes that your user is "sol". If not, change everywhere where "sol" is by the name of your user Solana.
+
 # Clone this repository
 `git clone https://github.com/EZStaking/solana-sys-tuner.git && cd solana-sys-tuner`
 
